@@ -1,0 +1,167 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	margin: 0 30px;
+    padding: 10px 70px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.search {
+	display: inline;
+}
+
+nav form {
+	float: right;
+}
+
+input {
+	border: none;
+	font-size: 13px;
+}
+
+header {
+	margin: 0 10%;
+	text-align: center;
+}
+
+header img {
+	border-radius: 50%;
+    width: 10%;
+    height: 85px;
+}
+
+header p {
+	font-size: 20px;
+    font-weight: 500;
+}
+header h1 {
+	font-size: 60px;
+}
+
+#date {
+	font-size: 25px;
+	color: gray;
+	font-style: italic;
+}
+
+hr {
+	border: 1px solid #c79852;
+    width: 10%
+}
+
+.side-chair p {
+	text-align: center;
+    margin: 2% 20%;
+    font-size: 25px;
+    line-height: 1.3;
+}
+
+.side-chair img {
+	margin: 0 17%;
+}
+
+.side-chair blockquote {
+	margin: 0 20%;
+    text-align: center;
+    padding: 0 10%;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.side-chair span {
+	display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.chair-right {
+	padding: 0 2%;
+	text-align: center;
+	margin: 1% auto 1% 4%;
+}
+
+.chair-right img {
+	margin: 0;
+	padding: 0 2%;
+}
+
+.likes .fa {
+	color: red;
+	font-size: 19px;
+}
+
+.likes {
+	text-align: center;
+	padding: 1px;
+}
+
+.likes textarea {
+	width: 60%;
+}
+
+.likes .button-groups {
+	padding-left: 250px;
+	display: inline;
+	float: left;
+
+}
+
+.right-button {
+	display: inline;
+	position: relative;
+	left: 475Px
+}
+
+button {
+	border: none;
+    background: white;
+    font-size: 12px;
+}
+
+footer {
+	margin-top: 2%;
+	height: 270px;
+	background-color: #F8F9FD;
+}
+
+.previous {
+	display: inline;
+	float: left;
+	padding: 3% 5% 3% 20%;
+	margin-top: 5%;
+	color: gray;
+	font-size: 20px;
+}
+
+.next {
+	display: inline;
+	float: right;
+	padding: 3% 20% 3% 5%;
+	margin-top: 5%;
+	color: gray;
+	font-size: 20px;
+}
+
+.previous a {
+	text-decoration: none;
+	color: #434345;
+}
+
+.next a {
+	text-decoration: none;
+	color: #434345;
+}
+
+.previous .fa {
+	color: gray;
+}
+
+.next .fa {
+	color: gray;
+}
